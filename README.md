@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kt-wawro
-- 👀 I’m interested in web3 and baking
-- 🌱 I’m currently learning AWS, Rust and Javascript
+- 👀 web3 and baking
+- 🌱 Always learning hard things and making them easier to understand. 
 .
 
 <!---
